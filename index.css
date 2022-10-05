@@ -1,0 +1,48 @@
+.banner{
+    width: 100%;
+    height: 550px;
+    background: url(../img/praiagrande2.jpeg);
+    background-size: 100%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.margin{
+   
+    margin-bottom: 0;
+}
+
+.paddin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Praia1{
+    width: 100%;
+}
+
+.Praia1 img{
+    width: 100%;
+}
+
+.praia2{
+    width: 100%;
+}
+
+.praia2 img{
+    width: 100%;
+}
+
+.praia3{
+    width: 110%;
+}
+
+.praia3 img{
+    width: 107%;
+}
+
+.container{
+    background-position-x: center;
+}
